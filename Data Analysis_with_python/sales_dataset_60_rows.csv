@@ -1,0 +1,61 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+10001,2024-01-02,Beauty Products,Face Wash,1,658.96,658.96,Asia,Debit Card
+10002,2024-01-03,Home Appliances,Microwave Oven,4,184.16,736.64,Asia,UPI
+10003,2024-01-04,Beauty Products,Body Lotion,3,41.12,123.36,Europe,PayPal
+10004,2024-01-05,Books,Atomic Habits,8,1167.0,9336.0,South America,Credit Card
+10005,2024-01-06,Clothing,Adidas Hoodie,7,973.86,6817.02,North America,PayPal
+10006,2024-01-07,Books,Rich Dad Poor Dad,10,1112.81,11128.1,South America,PayPal
+10007,2024-01-08,Electronics,MacBook Air,7,1231.66,8621.62,North America,Credit Card
+10008,2024-01-09,Clothing,Levi's 501 Jeans,3,463.12,1389.36,Europe,PayPal
+10009,2024-01-10,Electronics,Samsung Galaxy S24,3,1215.29,3645.87,South America,Debit Card
+10010,2024-01-11,Electronics,Samsung Galaxy S24,10,647.06,6470.6,Europe,Debit Card
+10011,2024-01-12,Home Appliances,Air Fryer,7,1393.47,9754.29,Europe,PayPal
+10012,2024-01-13,Clothing,Levi's 501 Jeans,1,976.73,976.73,Asia,Debit Card
+10013,2024-01-14,Books,The Da Vinci Code,10,213.66,2136.6,South America,Credit Card
+10014,2024-01-15,Books,The Da Vinci Code,1,287.41,287.41,North America,PayPal
+10015,2024-01-16,Clothing,Adidas Hoodie,3,1463.78,4391.34,South America,Debit Card
+10016,2024-01-17,Beauty Products,Body Lotion,10,1480.58,14805.8,Asia,Credit Card
+10017,2024-01-18,Clothing,Adidas Hoodie,2,596.24,1192.48,Europe,Debit Card
+10018,2024-01-19,Beauty Products,Neutrogena Skincare Set,1,669.07,669.07,Asia,PayPal
+10019,2024-01-20,Books,The Da Vinci Code,2,1186.81,2373.62,North America,PayPal
+10020,2024-01-21,Home Appliances,Air Fryer,8,898.25,7186.0,South America,PayPal
+10021,2024-01-22,Electronics,Samsung Galaxy S24,6,1425.32,8551.92,North America,PayPal
+10022,2024-01-23,Clothing,Nike T-Shirt,4,958.3,3833.2,Asia,Debit Card
+10023,2024-01-24,Beauty Products,Sunscreen,6,1378.3,8269.8,South America,UPI
+10024,2024-01-25,Clothing,Nike T-Shirt,10,504.03,5040.3,North America,PayPal
+10025,2024-01-26,Books,Atomic Habits,3,629.36,1888.08,North America,UPI
+10026,2024-01-27,Electronics,MacBook Air,9,177.94,1601.46,South America,PayPal
+10027,2024-01-28,Electronics,MacBook Air,7,85.53,598.71,South America,UPI
+10028,2024-01-29,Beauty Products,Neutrogena Skincare Set,3,28.54,85.62,South America,UPI
+10029,2024-01-30,Electronics,MacBook Air,5,925.51,4627.55,North America,Credit Card
+10030,2024-01-01,Beauty Products,Sunscreen,6,213.92,1283.52,Asia,Debit Card
+10031,2024-01-02,Books,Rich Dad Poor Dad,4,603.13,2412.52,Asia,Credit Card
+10032,2024-01-03,Electronics,MacBook Air,4,1138.5,4554.0,North America,UPI
+10033,2024-01-04,Electronics,MacBook Air,7,1025.36,7177.52,North America,Credit Card
+10034,2024-01-05,Clothing,Nike T-Shirt,4,1399.76,5599.04,South America,PayPal
+10035,2024-01-06,Home Appliances,Dyson V11 Vacuum,4,769.7,3078.8,Europe,Debit Card
+10036,2024-01-07,Beauty Products,Sunscreen,4,508.72,2034.88,South America,Credit Card
+10037,2024-01-08,Clothing,Adidas Hoodie,4,1288.48,5153.92,Europe,Debit Card
+10038,2024-01-09,Beauty Products,Body Lotion,8,1286.38,10291.04,South America,PayPal
+10039,2024-01-10,Beauty Products,Face Wash,8,1122.22,8977.76,North America,Credit Card
+10040,2024-01-11,Beauty Products,Face Wash,6,1108.76,6652.56,South America,Credit Card
+10041,2024-01-12,Beauty Products,Face Wash,9,1320.31,11882.79,Asia,Debit Card
+10042,2024-01-13,Electronics,iPhone 14 Pro,2,1317.06,2634.12,South America,Credit Card
+10043,2024-01-14,Beauty Products,Sunscreen,4,792.93,3171.72,Asia,Debit Card
+10044,2024-01-15,Home Appliances,Microwave Oven,3,1024.46,3073.38,Asia,Credit Card
+10045,2024-01-16,Home Appliances,Washing Machine,10,1064.15,10641.5,South America,Credit Card
+10046,2024-01-17,Electronics,Sony Headphones,5,1478.87,7394.35,Asia,Credit Card
+10047,2024-01-18,Beauty Products,Neutrogena Skincare Set,3,939.3,2817.9,South America,UPI
+10048,2024-01-19,Electronics,Sony Headphones,3,1419.01,4257.03,South America,Credit Card
+10049,2024-01-20,Home Appliances,Microwave Oven,7,521.28,3648.96,North America,UPI
+10050,2024-01-21,Books,Rich Dad Poor Dad,9,1349.11,12141.99,Asia,Debit Card
+10051,2024-01-22,Beauty Products,Face Wash,5,959.3,4796.5,North America,UPI
+10052,2024-01-23,Books,Atomic Habits,3,1170.69,3512.07,South America,Credit Card
+10053,2024-01-24,Beauty Products,Neutrogena Skincare Set,7,953.07,6671.49,North America,Credit Card
+10054,2024-01-25,Clothing,Nike T-Shirt,6,464.14,2784.84,Europe,PayPal
+10055,2024-01-26,Clothing,Nike T-Shirt,4,1378.92,5515.68,Europe,UPI
+10056,2024-01-27,Clothing,Adidas Hoodie,9,924.86,8323.74,Europe,Credit Card
+10057,2024-01-28,Books,Atomic Habits,2,96.84,193.68,Asia,UPI
+10058,2024-01-29,Home Appliances,Washing Machine,10,346.98,3469.8,North America,Debit Card
+10059,2024-01-30,Clothing,Levi's 501 Jeans,6,319.64,1917.84,South America,Credit Card
+10060,2024-01-01,Beauty Products,Sunscreen,9,1372.94,12356.46,Asia,Credit Card
